@@ -59,6 +59,29 @@
 
 [一文了解git玩转github](https://mp.weixin.qq.com/s/Nj5QoLp-CcGt4UEJDZMUfA)
 
-【工具篇】
+**【工具篇】**
+
 [提高开发效率一些工具，看看你都熟悉那些？？？](https://mp.weixin.qq.com/s/dVIOihWaF4rtuAkJGdnCiQ)
+
+**【ffmepg视频处理入门学习】**
+
+[一 海康威视实景视频(官方demo) 实景视频显示](https://blog.csdn.net/qq_16855077/article/details/89374261)
+
+[二 nginx转码推流实现视频画面](https://blog.csdn.net/qq_16855077/article/details/89839708)
+
+[三 java通过摄像头截取图片](https://blog.csdn.net/qq_16855077/article/details/90207118)
+
+[四 java给图片添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90238575)
+
+[五 多个图片合成一张图片](https://blog.csdn.net/qq_16855077/article/details/90408532)
+
+[六 java把多个图片合成视频，并添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90239644)
+
+[七 ffmepg把多个视频合成一个视频](https://blog.csdn.net/qq_16855077/article/details/90265073)
+
+[八 java操作ffmepg实现(实景视频实现)](https://blog.csdn.net/qq_16855077/article/details/90208256)
+
+[九 java实现图片截图](https://blog.csdn.net/qq_16855077/article/details/90378173)
+
+[十 java给图片添加水印(https://blog.csdn.net/qq_16855077/article/details/90207524)
 
