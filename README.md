@@ -1,5 +1,5 @@
 # 程序猿学社
-【算法与结构】
+**【算法与结构】**
 
 [《算法学习》 一 为什么要学习算法？](https://mp.weixin.qq.com/s/xV3O-Nb9M5wyKw12hme-7g)
 
