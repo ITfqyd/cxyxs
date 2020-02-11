@@ -94,6 +94,12 @@
 - [二十四 springcloud stream集成 rabbitmq](https://blog.csdn.net/qq_16855077/article/details/103370281)
 
 
+**【appscan项目上线漏洞修复教程】**
+- [一 appscan部署](https://blog.csdn.net/qq_16855077/article/details/100114764)
+- [二 sql注入+密码问题](https://blog.csdn.net/qq_16855077/article/details/84850561)
+- [三 sql注入跨站点脚本编制](https://blog.csdn.net/qq_16855077/article/details/84850561)
+- [四 跨站点请求伪造](https://blog.csdn.net/qq_16855077/article/details/84850561)
+- [五 跨域问题](https://blog.csdn.net/qq_16855077/article/details/84850561)
 
 
 
