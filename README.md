@@ -65,23 +65,24 @@
 
 **【ffmepg视频处理入门学习】**
 
-[一 海康威视实景视频(官方demo) 实景视频显示](https://blog.csdn.net/qq_16855077/article/details/89374261)
+[一 海康威视实景视频(官方demo) 实景视频显示 第一种实现方法](https://blog.csdn.net/qq_16855077/article/details/89374261)
 
-[二 nginx转码推流实现视频画面](https://blog.csdn.net/qq_16855077/article/details/89839708)
+[二 nginx转码推流实现视频画面  第二种实现方法](https://blog.csdn.net/qq_16855077/article/details/89839708)
 
-[三 java通过摄像头截取图片](https://blog.csdn.net/qq_16855077/article/details/90207118)
+[三 java操作ffmepg实现(实景视频实现) 第二种实现方法 本人使用这种方法](https://blog.csdn.net/qq_16855077/article/details/90208256)
 
-[四 java给图片添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90238575)
+[四 java通过摄像头截取图片](https://blog.csdn.net/qq_16855077/article/details/90207118)
 
-[五 多个图片合成一张图片](https://blog.csdn.net/qq_16855077/article/details/90408532)
+[五 java给图片添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90238575)
 
-[六 java把多个图片合成视频，并添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90239644)
+[六 实现一天的图片,截图1/24,用于实现天变化效果](https://blog.csdn.net/qq_16855077/article/details/90378173)
 
-[七 ffmepg把多个视频合成一个视频](https://blog.csdn.net/qq_16855077/article/details/90265073)
+[七 多个图片合成一张图片,实现天变化效果](https://blog.csdn.net/qq_16855077/article/details/90408532)
 
-[八 java操作ffmepg实现(实景视频实现)](https://blog.csdn.net/qq_16855077/article/details/90208256)
+[八 java把多个图片合成视频，并添加图片水印](https://blog.csdn.net/qq_16855077/article/details/90239644)
 
-[九 java实现图片截图](https://blog.csdn.net/qq_16855077/article/details/90378173)
+[九 ffmepg把多个视频合成一个视频](https://blog.csdn.net/qq_16855077/article/details/90265073)
 
-[十 java给图片添加水印](https://blog.csdn.net/qq_16855077/article/details/90207524)
+
+
 
