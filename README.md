@@ -14,7 +14,7 @@
 [《算法学习》 六 插入排序](https://mp.weixin.qq.com/s/m_cWL9rUz-gKLLytXb8Cbw)
 
 
-【apollo学习】
+**【apollo学习】**
 
 [《apollo》 一 单环境安装部署](https://mp.weixin.qq.com/s/GPr8_sF96do-_5-t2KDhWw)
 
@@ -23,7 +23,7 @@
 [《apollo》 三 多环境安装部署](https://mp.weixin.qq.com/s/GPr8_sF96do-_5-t2KDhWw)
 
 
-【面试题】
+**【面试题】**
 
 [spring基础面试题](https://mp.weixin.qq.com/s/TaA7jW5AfDSKsTVZ6XVo9A)
 
@@ -44,4 +44,19 @@
 
 [四 一文了解ArrayList](https://mp.weixin.qq.com/s/6MMyQyB2wUPYbQ8-w2e1aw)
 
+
+**【程序人生】**
+[程序员的4年生涯](https://mp.weixin.qq.com/s/iBjDj221miYgmnSmZvp8eQ)
+
+[深漂程序猿2019的一年](https://mp.weixin.qq.com/s/uCcMjC1O0H1dUHZ-y8oyjg)
+
+[为什么程序猿都不愿意去外包？](https://mp.weixin.qq.com/s/fc86hLuduLO4v8ONqLaZcg)
+
+**【待整理系列文章】**
+[一文学习MyBatis-Plus](https://mp.weixin.qq.com/s/FLU8jxZUjlsCjbipvDcnEA)
+
+[一文了解git玩转github](https://mp.weixin.qq.com/s/Nj5QoLp-CcGt4UEJDZMUfA)
+
+【工具篇】
+[提高开发效率一些工具，看看你都熟悉那些？？？](https://mp.weixin.qq.com/s/dVIOihWaF4rtuAkJGdnCiQ)
 
