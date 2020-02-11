@@ -67,6 +67,37 @@
 
 [提高开发效率一些工具，看看你都熟悉那些？？？](https://mp.weixin.qq.com/s/dVIOihWaF4rtuAkJGdnCiQ)
 
+
+**【springboot教程】**
+- [一 网站架构演变之路](https://blog.csdn.net/qq_16855077/article/details/93618390)
+- [二 微服务简介](https://blog.csdn.net/qq_16855077/article/details/90605665)
+- [三 注册中心Eureka server](https://blog.csdn.net/qq_16855077/article/details/90752257)
+- [四 eureka-消费提供者](https://blog.csdn.net/qq_16855077/article/details/90770291)
+- [五 spring cloud eureka-消费者](https://blog.csdn.net/qq_16855077/article/details/95460975)
+[六 eureka2.0 高可用集群环境搭建](https://blog.csdn.net/qq_16855077/article/details/95940638)
+[七 eureka2.0 自我保护机制](https://blog.csdn.net/qq_16855077/article/details/96115348)
+[八 Springcloud整合zookeeper作为注册中心](https://blog.csdn.net/qq_16855077/article/details/96840346)
+[九 zookeeper整合Ribbon负载均衡](https://blog.csdn.net/qq_16855077/article/details/96872207)
+[十 Springcloud整合consul作为注册中心](https://blog.csdn.net/qq_16855077/article/details/96966019)
+[十一 Feign客户端实现远程调用](https://blog.csdn.net/qq_16855077/article/details/96995189)
+[十二 cloud项目改造使用聚合项目](https://blog.csdn.net/qq_16855077/article/details/97249508)
+[十三 feign 超时时间设置](https://blog.csdn.net/qq_16855077/article/details/99288704)
+[十四 Hystrix断路器](https://blog.csdn.net/qq_16855077/article/details/99857355)
+[十五 分布式配置中心是怎么一回事](https://blog.csdn.net/qq_16855077/article/details/101065043)
+[十六 单环节apollo部署](https://blog.csdn.net/qq_16855077/article/details/103183899)
+[十七 读取apollo配置](https://blog.csdn.net/qq_16855077/article/details/103197221)
+[十八 apollo多环境配置文件管理实现(开发+测试+验收+生产)](https://blog.csdn.net/qq_16855077/article/details/103270658)
+[十九 apollo集成spring boot使用](https://blog.csdn.net/qq_16855077/article/details/103260251)
+[二十 网关zuul(一)](https://blog.csdn.net/qq_16855077/article/details/102960033)
+[二十一 ZuulFilter网关过滤器](https://blog.csdn.net/qq_16855077/article/details/102977930)
+[二十二 nginx+zuul实现网关集群](https://blog.csdn.net/qq_16855077/article/details/103087565)
+[二十三 swgger+zuul实现分布式微服务接口文档api](https://blog.csdn.net/qq_16855077/article/details/103147183)
+[二十四 springcloud stream集成 rabbitmq](https://blog.csdn.net/qq_16855077/article/details/103370281)
+
+
+
+
+
 **【ffmepg视频处理入门学习】**
 
 [一 海康威视实景视频(官方demo) 实景视频显示 第一种实现方法](https://blog.csdn.net/qq_16855077/article/details/89374261)
