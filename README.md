@@ -27,6 +27,17 @@
 
 [springboot高频面试题](https://mp.weixin.qq.com/s/8zyEZPTz-pSamh21LLVyiQ)
 
-[rabbitMQ面试](https://blog.csdn.net/qq_16855077/article/details/103778961
+[rabbitMQ面试](https://blog.csdn.net/qq_16855077/article/details/103778961)
+
+[springboot高频面试题](https://mp.weixin.qq.com/s/8zyEZPTz-pSamh21LLVyiQ)
+
+
+[一 自增变量、栈图表分析及字节码分析](https://mp.weixin.qq.com/s/z4tXxorLqt2tSnUpt4qeDg)
+
+[二 如何实现一个单例及如何优化](https://mp.weixin.qq.com/s/ABsGQqNrdSgTajqlcBXIvQ)
+
+[三 类初始化和类实例化顺序](https://mp.weixin.qq.com/s/LdkSc3wg5J1YuF5-2qRL4g)
+
+[四 一文了解ArrayList](https://mp.weixin.qq.com/s/6MMyQyB2wUPYbQ8-w2e1aw)
 
 
