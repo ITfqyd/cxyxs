@@ -1,5 +1,6 @@
-# cxyxs
+# 程序猿学社
 【算法与结构】
+
 [《算法学习》 一 为什么要学习算法？](https://mp.weixin.qq.com/s/xV3O-Nb9M5wyKw12hme-7g)
 
 [《算法学习》 二 冒泡排序分析](https://mp.weixin.qq.com/s/n8io7b_m6BvwDFoywrzgrA)
