@@ -69,7 +69,7 @@
 
 [二 nginx转码推流实现视频画面  第二种实现方法](https://blog.csdn.net/qq_16855077/article/details/89839708)
 
-[三 java操作ffmepg实现(实景视频实现) 第二种实现方法 本人使用这种方法](https://blog.csdn.net/qq_16855077/article/details/90208256)
+[三 java操作ffmepg实现(实景视频实现) 第三种实现方法 本人使用这种方法](https://blog.csdn.net/qq_16855077/article/details/90208256)
 
 [四 java通过摄像头截取图片](https://blog.csdn.net/qq_16855077/article/details/90207118)
 
