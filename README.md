@@ -1,7 +1,7 @@
 # 程序猿学社
 
 [关注公众号"程序猿学社"](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MjEyMjMzNA==#wechat_redirect)
-(可关注该公众号,进入java学习群,领取免费视频)
+(进入java学习群,领取免费视频)
 
 **【算法与结构】**
 - [《算法学习》 一 为什么要学习算法？](https://mp.weixin.qq.com/s/xV3O-Nb9M5wyKw12hme-7g)
