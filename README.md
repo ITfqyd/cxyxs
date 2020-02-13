@@ -1,6 +1,6 @@
 # 程序猿学社
 
-[关注公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MjEyMjMzNA==#wechat_redirect)
+[关注公众号"程序猿学社"](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MjEyMjMzNA==#wechat_redirect)
 (可关注该公众号,进入java学习群,领取免费视频)
 
 **【算法与结构】**
