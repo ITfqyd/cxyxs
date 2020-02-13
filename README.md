@@ -42,7 +42,7 @@
 - [一文了解git玩转github](https://mp.weixin.qq.com/s/Nj5QoLp-CcGt4UEJDZMUfA)
 
 **【工具篇】**
-- [提高开发效率一些工具，看看你都熟悉那些？？？](https://mp.weixin.qq.com/s/dVIOihWaF4rtuAkJGdnCiQ)
+- [作为IT从业人员，你觉得有什么工具能大大提高你的工作效率？](https://mp.weixin.qq.com/s/QWJaRQtydUOu6-kKai_k3w)
 
 
 **【springboot教程】**
