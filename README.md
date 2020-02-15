@@ -10,6 +10,8 @@
 - [《算法学习》 四 二分法查找(折半法或者折半查找)](https://mp.weixin.qq.com/s/PiNeuCEsqHdE9qK8YAP0YQ)
 - [《算法学习》 五 稀疏数组](https://mp.weixin.qq.com/s/QWj6-wU66Z6Iej40rxXCcw)
 - [《算法学习》 六 插入排序](https://mp.weixin.qq.com/s/m_cWL9rUz-gKLLytXb8Cbw)
+- [《算法学习》 七 希尔排序](https://mp.weixin.qq.com/s/bM6j2G7iXyHihuY6F320OQ)
+
 
 
 **【apollo学习】**
