@@ -12,6 +12,12 @@
 - [《算法学习》 六 插入排序](https://mp.weixin.qq.com/s/m_cWL9rUz-gKLLytXb8Cbw)
 - [《算法学习》 七 希尔排序](https://mp.weixin.qq.com/s/bM6j2G7iXyHihuY6F320OQ)
 
+**【多线程高并发编程】**
+- [一进程和线程(并发和并行)](https://mp.weixin.qq.com/s/kkZy_4pkmV--04YyZIoluQ)
+- [二 实现多线程的几种方式](https://mp.weixin.qq.com/s/LSywrksMci9Tb3NlOfMnfg)
+- [三 Callable源码分析](https://mp.weixin.qq.com/s/3TCpvu9MSmibAZWf2IP-cA)
+- [四 java中有几种线程池，具体应用场景？](https://mp.weixin.qq.com/s/kcHBAh3pWAExlaEUVT9sVg)
+- [五 线程的生命周期](https://mp.weixin.qq.com/s/0slWSzTStT8Uu5TwmC3ucA)
 
 
 **【apollo学习】**
