@@ -2,6 +2,9 @@
 
 [关注公众号"程序猿学社"](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MjEyMjMzNA==#wechat_redirect)
 (进入java学习群,领取免费java视频)
+- [新用户专享1折起(老用户可使用家人账号购买),更好的学习各个技术的部署,减少每次关机重启后,还得一个个重启的时间,点击链接快去看看把！](https://www.aliyun.com/minisite/goods?source=5176.11533457&userCode=qs2ssk2b&type=copy)
+
+
 
 **【算法与结构】**
 - [《算法学习》 一 为什么要学习算法？](https://mp.weixin.qq.com/s/xV3O-Nb9M5wyKw12hme-7g)
