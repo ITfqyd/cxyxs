@@ -22,6 +22,16 @@
 - [三 Callable源码分析](https://mp.weixin.qq.com/s/3TCpvu9MSmibAZWf2IP-cA)
 - [四 java中有几种线程池，具体应用场景？](https://mp.weixin.qq.com/s/kcHBAh3pWAExlaEUVT9sVg)
 - [五 线程的生命周期](https://mp.weixin.qq.com/s/0slWSzTStT8Uu5TwmC3ucA)
+- [六 什么是线程安全？](https://blog.csdn.net/qq_16855077/article/details/104477155)
+- [七 线程的优先级](https://blog.csdn.net/qq_16855077/article/details/104508301)
+- [八 线程的礼让和守护线程](https://blog.csdn.net/qq_16855077/article/details/104518686)
+- [九 线程Thread的停止](https://blog.csdn.net/qq_16855077/article/details/104529660A)
+- [十 线程的join](https://blog.csdn.net/qq_16855077/article/details/104548411)
+- [十一 生产者和消费者问题(面试必问)](https://blog.csdn.net/qq_16855077/article/details/104569388)
+- [十二 CopyOnWriteArrayList源码分析](https://blog.csdn.net/qq_16855077/article/details/104598379)
+- [十三 CountDownLatch和CyclicBarrier](https://blog.csdn.net/qq_16855077/article/details/104634011)
+- [十四 面试官：说说Java中的信号量？Semaphore](https://blog.csdn.net/qq_16855077/article/details/104701328)
+
 
 
 **【apollo学习】**
