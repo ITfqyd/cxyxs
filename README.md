@@ -86,7 +86,8 @@
 - [十六 Spring Boot整合Spring Data Redis操作实体对象](https://blog.csdn.net/qq_16855077/article/details/85000744)
 - [十七 springboot整合定时任务Scheduled](https://blog.csdn.net/qq_16855077/article/details/85007533)
 - [十八 springboot集成mybatis-plus](https://blog.csdn.net/qq_16855077/article/details/104151231)
-
+- [十九 springboot中如何配置多数据源](https://blog.csdn.net/qq_16855077/article/details/104708038)
+- [二十 使用jta+atomikos解决多数据源分布式事务](https://blog.csdn.net/qq_16855077/article/details/104852632)
 
 **【springcloud教程】**
 - [一 网站架构演变之路](https://blog.csdn.net/qq_16855077/article/details/93618390)
